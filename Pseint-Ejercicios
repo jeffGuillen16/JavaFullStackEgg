@@ -1,1 +1,46 @@
-
+Algoritmo sin_titulo
+//1)Escribir un programa que pida: nombre y actividad favorita (usar dos variables del tipo
+//	Caracter) y los muestre por pantalla. Este ejercicio se deberá realizar preguntándole nombre y
+//	actividad favorita a los compañeros de equipo.
+//	Definir nombre Como Caracter
+//	Definir actividadFavorita Como Caracter
+//	
+//	Escribir " ¿Cual es tu nombre?"
+//	leer nombre
+//	Escribir " ¿Cual es tu actividad Favorita?"
+//	leer actividadFavorita
+//	
+//	Escribir " Su nombre es:",nombre
+//	Escribir " Su tu Actividad favorita es:",actividadFavorita
+//	
+//2)Escriba un programa que solicite un nombre. El programa leerá el nombre de un compañero
+//de equipo, para esto deberemos preguntar a nuestro equipo el nombre del o la compañera
+//que más colaboró y mostrar por pantalla su nombre, sumado al siguiente mensaje:
+//	variable, "es quien más colaboró en mi equipo, propiciando la cooperación y el fluir del
+//	conocimiento. Por estas razones, es que vamos a RECONOCERLO dándole un PULSO."
+//	Definir variable Como Caracter
+//	Escribir "¿Cual es el nombre de la compañera que mas colaboro?"
+//	leer variable
+//	Escribir variable," es quien más colaboró en mi equipo, propiciando la cooperación y el fluir del"
+	//	conocimiento. Por estas razones, es que vamos a RECONOCERLO dándole un PULSO."
+//4)Escriba un programa que lea dos números enteros y realice el cálculo de la suma, resta,
+	//multiplicación y división entre ambos valores. Los resultados deben mostrarse por pantalla.
+	Definir num1 Como Real
+	Definir num2 Como Real
+	Definir suma Como Real
+	Definir multiplicacion Como Real
+	Definir division como Real 
+	Definir resta Como Real
+	Leer num1
+	Leer num2
+	suma=num1+num2
+	Escribir "la suma es :",suma
+	Escribir "la resta :",suma
+	Escribir "la division es :",suma
+	Escribir "la multiplicación :",suma
+	
+	
+	
+	
+	
+FinAlgoritmo
